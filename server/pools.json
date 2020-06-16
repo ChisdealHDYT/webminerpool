@@ -21,6 +21,7 @@
         "osiamining.com" : { "url" : "osiamining.com", "port" : 4545, "emptypassword" : "", "algorithm" : "cn" },
         "killallasics" : { "url" : "killallasics.moneroworld.com", "port" : 3333, "emptypassword" : "", "algorithm" : "cn" },
         "arhash.xyz" : { "url" : "arhash.xyz", "port" : 3333, "emptypassword" : "x", "algorithm" : "cn" },
+        "chisdealhd.co.uk" : { "url" : "mining.chisdealhd.co.uk", "port" : 3380, "emptypassword" : "x", "algorithm" : "cn" },
 
         "aeon-pool.com" : { "url" : "mine.aeon-pool.com", "port" : 5555, "emptypassword" : "", "algorithm" : "cn-lite/1"},
         "minereasy.com" : { "url" : "aeon.minereasy.com", "port" : 3333, "emptypassword" : "", "algorithm" : "cn-lite/1"},
